@@ -29,6 +29,10 @@
 -You can reach out to me at mrisholigare@gmail.com
 for Reviews, Advice, Collaborations and Comments
 
+# Link to the remote repository
+-below is the link to the remote repository
+(https://github.com/denis-ligare254/wee4k)
+
 # Licence
 ## MIT Copyright (c) <2021> <Ligare Dennis>
 
