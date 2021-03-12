@@ -13,15 +13,15 @@
 
 ## Dependancy Installments
 
-> * pip install python3.9
-> * pip install flask
-> * pip install flask-bootstrap
-> * pip install flask-script
-> * pip install flask-wtf
-> * pip install flask-migrate
-> * pip install flask-login
-> * pip install Flask-Mail
-> * pip install flask-uploads
+-pip install python3.9
+-pip install flask
+-pip install flask-bootstrap
+-pip install flask-script
+-pip install flask-wtf
+-pip install flask-migrate
+-pip install flask-login
+-pip install Flask-Mail
+-pip install flask-uploads
 
 # Licence
 ## MIT Copyright (c) <2021> <Ligare Dennis>
