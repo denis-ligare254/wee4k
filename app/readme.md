@@ -9,8 +9,6 @@
    -HTML5
    -CSS3d 
    -fontowesome Icons
-
-
 ## Dependancy Installments
 
 -pip install python3.9
@@ -22,6 +20,14 @@
 -pip install flask-login
 -pip install Flask-Mail
 -pip install flask-uploads
+## Known Bugs
+
+-No known bugs yet but incase of any reach out to mrisholigare@gmail.com
+
+## Support and Contact Details
+
+-You can reach out to me at mrisholigare@gmail.com
+for Reviews, Advice, Collaborations and Comments
 
 # Licence
 ## MIT Copyright (c) <2021> <Ligare Dennis>
