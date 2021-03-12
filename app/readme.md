@@ -31,7 +31,12 @@ for Reviews, Advice, Collaborations and Comments
 
 # Link to the remote repository
 -below is the link to the remote repository
-(https://github.com/denis-ligare254/wee4k)
+(https://github.com/denis-ligare254/wee4k).
+
+# To change the config_name parameter from 'production' to 'development'
+
+-Inside the manage.py module  i.e:- ```app = create_app('production')``` should be ```app = create_app('development')```
+-Then run ```python3.9 manage.py server``` to get the app running  navigate to ```http://127.0.0.1:5000/``` and it will open in your browser
 
 # Licence
 ## MIT Copyright (c) <2021> <Ligare Dennis>
