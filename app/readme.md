@@ -2,6 +2,14 @@
 ### By Ligare Dennis
 - Here is a simple web application which allows usser to cooment, later the  comment can be voted for 
 
+# Technology used
+-The following are lis of technology used when coming up with the project
+   -Flask 
+   -Bootstrap4
+   -HTML5
+   -CSS3
+   -fontowesome Icons
+   
 # Licence
 ## MIT Copyright (c) <2021> <Ligare Dennis>
 
